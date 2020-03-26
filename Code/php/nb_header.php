@@ -16,8 +16,8 @@ session_start();
 </head>
 <body>
 
-<header class="w3-container w3-teal" style ="background-color: #1bd00c!important;" >
-    <h1>Тестовое задание по технологиям php-mysql</h1>
+<header class="w3-container w3-teal" style ="background-color: #d0150c!important;" >
+    <h1>Стек: HTML-CSS-PHP-MySQL</h1>
 </header>
 
 <div class="w3-bar w3-border">
